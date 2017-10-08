@@ -1,2 +1,2 @@
-# springrestapi
-rest api using spring
+# SPRING REST API DEMO
+REST API using spring
